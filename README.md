@@ -8,10 +8,3 @@ last update is on mac os ventura
 
 
 
-what is working
-
-wifi 
-
-bluetooth
-
-touchpad
